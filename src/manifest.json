@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "WIMTD",
+    "description": "Extension to gather the information on the tab data",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
